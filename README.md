@@ -2,6 +2,11 @@
 
 This Streamlit web app leverages Google's GenerativeAI service (Gemini Pro) to automatically summarize YouTube videos based on their transcripts.
 
+## Streamlit  
+
+You can try the app on Streamlit Server: 
+[YouTube Transcriber](https://youtube-transcriber-mk.streamlit.app)
+
 ## 1. Features
 
 - **YouTube Link Input:** Enter the URL of a YouTube video.
