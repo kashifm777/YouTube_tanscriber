@@ -4,7 +4,7 @@ This Streamlit web app leverages Google's GenerativeAI service (Gemini Pro) to a
 
 ## Streamlit  
 
-You can try the app on Streamlit Server: 
+You can try the app on Streamlit Server:  
 [YouTube Transcriber](https://youtube-transcriber-mk.streamlit.app)
 
 ## 1. Features
